@@ -12,6 +12,9 @@ public class Book {
         this.image = image;
     }
 
+    public Book() {
+    }
+
     public String getName() {
         return name;
     }
